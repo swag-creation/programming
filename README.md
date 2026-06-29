@@ -1,4 +1,5 @@
 # programming
 Just homewrok,  nothing else
-some contsome cont
+some cont
 try to update
+this mustnt update
